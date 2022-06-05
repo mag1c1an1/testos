@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun  2 22:43:21 2022
+# Make data base, printed on Mon Jun  6 02:45:59 2022
 
 # Variables
 
@@ -19,7 +19,7 @@ LC_ALL = C
 # environment
 NO_AT_BRIDGE = 1
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-edc221dd-5e43-40f0-827b-5609c0e1fe2b.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-dbcfbe41-61e6-4bcd-bef2-d4020b49c45f.sock
 # environment
 LC_NUMERIC = zh_CN.UTF-8
 # environment
@@ -89,7 +89,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 29163
+VSCODE_PID = 25236
 # environment
 MOZ_ENABLE_WAYLAND = 1
 # environment
@@ -97,7 +97,7 @@ XDG_SESSION_TYPE = x11
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/manjaro:@/tmp/.ICE-unix/846,unix/manjaro:/tmp/.ICE-unix/846
+SESSION_MANAGER = local/manjaro:@/tmp/.ICE-unix/836,unix/manjaro:/tmp/.ICE-unix/836
 # automatic
 *F = $(notdir $*)
 # environment
@@ -139,7 +139,7 @@ MOTD_SHOWN = pam
 # environment
 LC_TIME = zh_CN.UTF-8
 # environment
-INVOCATION_ID = c0cd6a29fc054768a8288e054a91241c
+INVOCATION_ID = 2e7d95762ae843068f75a06e505308fa
 # environment
 VSCODE_LOG_NATIVE = false
 # environment
@@ -147,7 +147,7 @@ USERNAME = maji
 # automatic
 ?F = $(notdir $?)
 # environment
-DESKTOP_AUTOSTART_ID = 10995c1d5df731391b165415379247285300000008460024
+DESKTOP_AUTOSTART_ID = 10298e589d774e8006165444272625471900000008360024
 # environment
 GTK_IM_MODULE = fcitx5
 # environment
@@ -167,7 +167,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /home/maji/.config/autostart/utools.desktop
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 846
+SYSTEMD_EXEC_PID = 836
 # environment
 EDITOR = /usr/bin/nano
 # environment
@@ -177,11 +177,11 @@ USER = maji
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 766
+MANAGERPID = 752
 # environment
 LC_MEASUREMENT = zh_CN.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 1134
+GIO_LAUNCHED_DESKTOP_FILE_PID = 1116
 # environment
 _ = /usr/bin/make
 # environment
@@ -189,7 +189,7 @@ LC_PAPER = zh_CN.UTF-8
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
-JOURNAL_STREAM = 8:13786
+JOURNAL_STREAM = 8:30453
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -229,9 +229,9 @@ GDMSESSION = gnome
 
 # Directories
 
-# . (device 2066, inode 13766730): 9 files, no impossibilities.
+# . (device 2066, inode 13766730): 10 files, no impossibilities.
 
-# 9 files, no impossibilities in 1 directories.
+# 10 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -281,13 +281,13 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 17 / storage = 152 B / avg = 8 B
-# current buf: size = 8162 B / used = 152 B / count = 17 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 18 / storage = 157 B / avg = 8 B
+# current buf: size = 8162 B / used = 157 B / count = 18 / avg = 8 B
 
-# strcache performance: lookups = 20 / hit rate = 15%
+# strcache performance: lookups = 21 / hit rate = 14%
 # hash-table stats:
  
-# Load=17/8192=0%, Rehash=0, Collisions=0/20=0%
-# Finished Make data base on Thu Jun  2 22:43:21 2022
+# Load=18/8192=0%, Rehash=0, Collisions=0/21=0%
+# Finished Make data base on Mon Jun  6 02:45:59 2022
 
  
